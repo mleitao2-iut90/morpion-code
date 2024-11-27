@@ -1,0 +1,9 @@
+tictactoe\MancheFactory.class
+tictactoe\Game.class
+tictactoe\Human.class
+tictactoe\Manche.class
+tictactoe\IA.class
+tictactoe\Grille.class
+tictactoe\Joueur.class
+tictactoe\OccupiedCellException.class
+tictactoe\Launcher.class
